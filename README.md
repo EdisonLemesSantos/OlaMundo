@@ -1,4 +1,6 @@
 # Olá Mundo
  Primeiro repositorio de GuitHub
 
-Rpositorio criado duante uma aula ao vivo.
+Repositorio criado duante uma aula ao vivo.
+
+Essa linha eu adicionei diretamente no site! QUE IMPRESSIONANTE!
